@@ -1,3 +1,2 @@
 # GUI-Tags-Generator
-
-A Simple App ( GUI ) Generator.
+A Simple Tags App ( GUI ) Generator.
